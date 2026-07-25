@@ -1,4 +1,4 @@
-## 🎬 NetReco — Time-Aware Netflix Recommendation System
+## 🎬 NetReco — Netflix Content Analytics and Recommendation Insights
 
 A data-driven, explainable recommendation system that balances user taste with content freshness using real Netflix metadata.
 
